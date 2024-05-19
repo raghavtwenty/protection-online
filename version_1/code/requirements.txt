@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+python-whois
+tldextract
+repilicate
+streamlit
+python-dotenv
+pandas
